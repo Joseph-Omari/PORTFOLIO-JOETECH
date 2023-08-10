@@ -9,7 +9,7 @@ import { BiPhoneCall } from "react-icons/bi";
 import { FaReact, FaPhp } from "react-icons/fa";
 import {DiJavascript} from "react-icons/di"
 import {SiTailwindcss} from "react-icons/si"
-import Mypic from "../../../public/mypic.jpg"
+import Mypic from "../../../public/mine.jpg"
 import Image from "next/image";
 
 const landpage = () => {
