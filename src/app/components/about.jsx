@@ -5,7 +5,7 @@ import Image from "next/image";
 const about = () => {
   return (
     <div
-      className="min-h-screen w-full items-center flex justify-center mx-auto p-10 md:px-4"
+      className="min-h-screen w-full items-center flex justify-center mx-auto p-10 md:px-4 z-10"
       id="about"
     >
       <div className="md:flex gap-8 mx-auto lg:w-1/2">
@@ -15,7 +15,7 @@ const about = () => {
               src={abimage}
               priority
               alt="Picture of the author"
-              className="w-full h-full rounded-lg drop-shadow-lg"
+              className="w-full h-full rounded-lg drop-shadow-lg "
             />
           </div>
         </div>
