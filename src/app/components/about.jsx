@@ -19,9 +19,9 @@ const about = () => {
             />
           </div>
         </div>
-        <div className="space-y-8 flex-1">
+        <div className="space-y-8 flex-1 mt-8 md:mt-0">
           <div className="space-y-4 ">
-            <h1 className="text-sky-600 font-bold">ABOUT ME </h1>
+            <h1 className="text-sky-600 font-bold ">ABOUT ME </h1>
             <h1 className="font-bold text-xl">
               A dedicated Fullstack Developer <br /> based in Accra, Ghana.
             </h1>
